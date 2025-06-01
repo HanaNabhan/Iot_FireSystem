@@ -3,7 +3,7 @@
 An Internet of Things (IoT) based fire detection and alert system using Arduino and ESP8266. This project is designed to detect the presence of fire or high temperature and immediately send a notification via the ESP8266 module to alert users, enabling timely response to potential hazards.
 ## 📸 Screenshots
 <p align="center">
-  <img src="arduino_project.png" alt="Arduino Project" width="400"/>
+  <img src="arduino_project.png" alt="Arduino Project" width="500"/>
   <img src="esp_circuit.png" alt="ESP Circuit" width="500"/>
 </p>
 
@@ -47,10 +47,6 @@ An Internet of Things (IoT) based fire detection and alert system using Arduino 
 3. Upload `espcode.ino` to the ESP8266 using the Arduino IDE.
 4. Ensure Wi-Fi credentials and IP addresses (if any) are correctly set in the code.
 5. Power the system and test fire detection response.
-
-## 🔐 Note
-
-This project is currently private and under development. It is not intended for production use without proper testing and safety evaluations.
 
 
 
