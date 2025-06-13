@@ -1,6 +1,6 @@
 # 🔥 IoT Fire Detection System
 
-An Internet of Things (IoT) based fire detection and alert system using Arduino and ESP8266. This project is designed to detect the presence of fire or high temperature and immediately send a notification via the ESP8266 module to alert users, enabling timely response to potential hazards.
+An Internet of Things (IoT) based fire detection and alert system using Arduino and ESP. This project is designed to detect the presence of fire or high temperature and immediately send a notification via the ESP module to alert users, enabling timely response to potential hazards.
 ## 📸 Screenshots
 <p align="center">
   <img src="arduino_project.png" alt="Arduino Project" width="500"/>
